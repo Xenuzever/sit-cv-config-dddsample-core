@@ -1,0 +1,9 @@
+{
+  "lifelines": [
+    {
+      "name": "HibernateRepository",
+      "exclude": true,
+      "dbAccess": true
+    }
+  ]
+}
